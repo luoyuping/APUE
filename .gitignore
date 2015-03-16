@@ -1,6 +1,5 @@
 #ignore the bin file 
 #only need the *.c file~
-\!*.c
-\!daemon
-*.swp
+!*.c*
+*.swp*
 
