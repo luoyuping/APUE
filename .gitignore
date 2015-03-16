@@ -1,5 +1,7 @@
 #ignore the bin file 
 #only need the *.c file~
+/*
+!/source_code/
 !*.c*
-*.swp*
+
 
