@@ -6,7 +6,7 @@
 #include <time.h>
 #include <syslog.h>
 #include <stdio.h>
-
+#include <stdlib.h>
 
 int init_daemon(void)
 {
