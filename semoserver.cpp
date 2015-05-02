@@ -2,8 +2,8 @@
 #include <sys/sem.h>
 #include <sys/ipc.h>
 #include <unistd.h> 
-#include <stdio.h>
-#include <stdlib.h> 
+#include <cstdio>
+#include <cstdlib> 
 #include <errno.h>
 
 union semun
